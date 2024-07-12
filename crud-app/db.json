@@ -1,0 +1,16 @@
+{
+  "students": [],
+  "classes": [
+    {
+      "id": "1",
+      "name": "Class 10",
+      "description": "Tenth grade"
+    }
+  ],
+  "sections": [
+    {
+      "id": "1",
+      "name": "A"
+    }
+  ]
+}
